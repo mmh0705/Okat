@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/home"
+        android:title="메인"
+        android:icon="@drawable/ic_home"/>
+    <item
+        android:id="@+id/dashboard"
+        android:title="문자열람"
+        android:icon="@drawable/ic_dashboard"/>
+
+    <item
+        android:id="@+id/about"
+        android:title="상세분석"
+        android:icon="@drawable/ic_info"/>
+
+    <item
+        android:id="@+id/solution"
+        android:title="대처방법"
+        android:icon="@drawable/ic_solution"/>
+
+    <item
+        android:id="@+id/setting"
+        android:title="설정"
+        android:icon="@drawable/ic_setting"/>
+
+</menu>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="states">
+        <item>학생</item>
+        <item>무직</item>
+        <item>회사원</item>
+        <item>사업가</item>
+        <item>프리랜서</item>
+    </string-array>
+</resources>
